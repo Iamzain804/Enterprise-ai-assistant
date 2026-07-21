@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+*.env
+
+# Python & Virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project Internal Notes & Planning
+brain.md
+roadmap.md
+app/brain.md
+
+# Data & Databases
+data/vector_db/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
